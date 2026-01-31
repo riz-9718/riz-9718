@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @riz-9718
+- 👋 Hi, I’m @Riz_Mujtaba
 - 👀 I’m interested in game developement
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
